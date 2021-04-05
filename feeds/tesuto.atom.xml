@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>aki's blog - テスト</title><link href="https://akiika.github.io/pelican-blog2/" rel="alternate"></link><link href="https://akiika.github.io/pelican-blog2/feeds/tesuto.atom.xml" rel="self"></link><id>https://akiika.github.io/pelican-blog2/</id><updated>2021-04-05T00:00:00+09:00</updated><entry><title>Added new post</title><link href="https://akiika.github.io/pelican-blog2/2021-04-05.html" rel="alternate"></link><published>2021-04-05T00:00:00+09:00</published><updated>2021-04-05T00:00:00+09:00</updated><author><name>akiika</name></author><id>tag:akiika.github.io,2021-04-05:/pelican-blog2/2021-04-05.html</id><summary type="html">&lt;p&gt;test&lt;/p&gt;</summary><content type="html">&lt;h2&gt;今日はspaCyをいろいろ試した&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>aki's blog - テスト</title><link href="https://akiika.github.io/pelican-blog2/" rel="alternate"></link><link href="https://akiika.github.io/pelican-blog2/feeds/tesuto.atom.xml" rel="self"></link><id>https://akiika.github.io/pelican-blog2/</id><updated>2021-04-05T00:00:00+09:00</updated><entry><title>今日はspaCyをいろいろ試した</title><link href="https://akiika.github.io/pelican-blog2/2021-04-05.html" rel="alternate"></link><published>2021-04-05T00:00:00+09:00</published><updated>2021-04-05T00:00:00+09:00</updated><author><name>akiika</name></author><id>tag:akiika.github.io,2021-04-05:/pelican-blog2/2021-04-05.html</id><summary type="html">&lt;p&gt;test&lt;/p&gt;</summary><content type="html">&lt;h2&gt;自然言語処理のライブラリ&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;nltk&lt;/li&gt;
+&lt;li&gt;spaCy&lt;/li&gt;
+&lt;li&gt;stanza&lt;/li&gt;
+&lt;/ul&gt;</content><category term="テスト"></category><category term="article"></category></entry><entry><title>2つ目の投稿～</title><link href="https://akiika.github.io/pelican-blog2/2021-03-31.html" rel="alternate"></link><published>2021-03-31T00:00:00+09:00</published><updated>2021-03-31T00:00:00+09:00</updated><author><name>akiika</name></author><id>tag:akiika.github.io,2021-03-31:/pelican-blog2/2021-03-31.html</id><summary type="html">&lt;p&gt;test&lt;/p&gt;</summary><content type="html">&lt;h2&gt;テスト投稿2つ目！&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;content&lt;/li&gt;
 &lt;li&gt;content&lt;/li&gt;
@@ -7,8 +12,4 @@
 &lt;ol&gt;
 &lt;li&gt;item&lt;/li&gt;
 &lt;li&gt;item&lt;/li&gt;
-&lt;/ol&gt;</content><category term="テスト"></category><category term="article"></category></entry><entry><title>Here is my second post!</title><link href="https://akiika.github.io/pelican-blog2/second-post.html" rel="alternate"></link><published>2021-03-30T00:00:00+09:00</published><updated>2021-03-30T00:00:00+09:00</updated><author><name>akiika</name></author><id>tag:akiika.github.io,2021-03-30:/pelican-blog2/second-post.html</id><summary type="html">&lt;p&gt;test&lt;/p&gt;</summary><content type="html">&lt;h2&gt;This is my second post!!&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;content&lt;/li&gt;
-&lt;li&gt;content&lt;/li&gt;
-&lt;/ul&gt;</content><category term="テスト"></category><category term="article"></category></entry></feed>
+&lt;/ol&gt;</content><category term="テスト"></category><category term="article"></category></entry></feed>
